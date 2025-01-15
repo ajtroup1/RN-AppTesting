@@ -4,6 +4,7 @@ const home = StyleSheet.create({
   title: {
     fontSize: 40,
     color: "#000",
+    fontFamily: "Poppins-Black",
   }
 });
 
