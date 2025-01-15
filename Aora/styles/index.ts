@@ -1,6 +1,8 @@
 import { StyleSheet } from "react-native";
 
-export { default as Home } from "./home";
+export { default as home } from "./home";
+export { default as tabs } from "./tabs";
+export { fonts } from "./fonts";
 
 const main = StyleSheet.create({
   container: {
